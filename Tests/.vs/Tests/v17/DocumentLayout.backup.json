@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSprojects\\LibraryCatalog\\Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D843AF2-3DA6-4528-976E-28036B16DE6F}|Tests\\Tests.csproj|c:\\vsprojects\\librarycatalog\\tests\\tests\\unittests\\bookrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D843AF2-3DA6-4528-976E-28036B16DE6F}|Tests\\Tests.csproj|solutionrelative:tests\\unittests\\bookrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D843AF2-3DA6-4528-976E-28036B16DE6F}|Tests\\Tests.csproj|c:\\vsprojects\\librarycatalog\\tests\\tests\\integrationtests\\booksapiintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D843AF2-3DA6-4528-976E-28036B16DE6F}|Tests\\Tests.csproj|solutionrelative:tests\\integrationtests\\booksapiintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksApiIntegrationTests.cs",
+              "DocumentMoniker": "C:\\VSprojects\\LibraryCatalog\\Tests\\Tests\\IntegrationTests\\BooksApiIntegrationTests.cs",
+              "RelativeDocumentMoniker": "Tests\\IntegrationTests\\BooksApiIntegrationTests.cs",
+              "ToolTip": "C:\\VSprojects\\LibraryCatalog\\Tests\\Tests\\IntegrationTests\\BooksApiIntegrationTests.cs",
+              "RelativeToolTip": "Tests\\IntegrationTests\\BooksApiIntegrationTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:29:02.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepositoryTests.cs",
+              "DocumentMoniker": "C:\\VSprojects\\LibraryCatalog\\Tests\\Tests\\UnitTests\\BookRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\BookRepositoryTests.cs",
+              "ToolTip": "C:\\VSprojects\\LibraryCatalog\\Tests\\Tests\\UnitTests\\BookRepositoryTests.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\BookRepositoryTests.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:06:36.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
